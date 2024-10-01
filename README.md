@@ -32,10 +32,9 @@ Click the Refresh button to reload the page and generate a fresh set of colors! 
 RandomColorBox/
 
 │
-|
-├── index.html        # HTML structure  
-├── style.css         # CSS for styling  
-└── app.js            # JavaScript for color generation  
+├── index.html        # HTML structure
+├── style.css         # CSS for styling
+└── app.js            # JavaScript for color generation
 
 🛠️ How to Use
 Clone the repository:
