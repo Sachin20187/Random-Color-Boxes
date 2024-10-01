@@ -41,7 +41,8 @@ open index.html
 Enjoy the colorful grid! 🌈
 
 🖼️ Screenshot
-
+![Screenshot 2024-10-01 115158](https://github.com/user-attachments/assets/6fba4acd-20a9-4bfe-b31e-f982ed4c1b2e)
+                                                                                                                                                          
 A sample of the randomly generated color boxes.
 
 
