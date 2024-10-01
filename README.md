@@ -5,7 +5,9 @@ Welcome to the Random Color Boxes project! This is a fun and interactive web app
 🌟 Features
 
 🖌️ Random Color Generation: Each box is assigned a unique random hex color code on page load.
+
 🔄 Interactive Refresh Button: Refresh the color grid with a single click to get a new set of colors.
+
 📱 Responsive Design: The layout is responsive and adapts to any screen size using Flexbox.
 
 🚀 Technologies Used
