@@ -45,6 +45,9 @@ Enjoy the colorful grid! 🌈
                                                                                                                                                           
 A sample of the randomly generated color boxes.
 
-
 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.          
+                                  
+✨ Acknowledgements                                                                                    
+Sachin Kumar                                                                                                                                                                            
+GitHub: Sachin@20187                                                                
